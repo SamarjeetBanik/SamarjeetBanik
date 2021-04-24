@@ -1,7 +1,7 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨!!!, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Hi.gif" width="50px"></h1>
 
 <div>
-  <img alt="name" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/name.gif"/>
+  <img alt="name" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Name.gif"/>
   <img alt="Night Coding" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Night-Coding.gif" height="180px" align="right"/>
   <pre align="left">
     You have finally discovered my Github profile.

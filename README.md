@@ -1,12 +1,13 @@
 <p align="center">
-  <h2> 𝐇𝐞𝐥𝐥𝐨!!!, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <h2>𝐇𝐞𝐥𝐥𝐨!!!, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Hi.gif" width="30px"></h2>
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align=""/>
+<img alt="name" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/name.gif" align=""/>
+<img alt="Night Coding" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Night-Coding.gif" align=""/>
 
 <div align="center">
   <h2 align="center">⚙️ My GitHub Stats ⚙️</h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarjeetBanik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SamarjeetBanik's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamarjeetBanik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SamarjeetBanik's Github Stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamarjeetBanik&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SamarjeetBanik's Github Stats">
 </div>
 

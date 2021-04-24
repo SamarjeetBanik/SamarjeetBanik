@@ -1,5 +1,5 @@
-<p align="center">
-  <h2>𝐇𝐞𝐥𝐥𝐨!!!, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Hi.gif" width="30px"></h2>
+<p>
+  <h1 align="center">𝐇𝐞𝐥𝐥𝐨!!!, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Hi.gif" width="30px"></h1>
 </p>
 
 <div>

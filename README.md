@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨!!!, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Hi.gif" width="50px"></h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨!!!, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Hi.gif" width="50px"><img src="https://visitor-badge.laobi.icu/badge?page_id=SamarjeetBanik.SamarjeetBanik" alt="visitCount"></h1>
 
 <div>
   <img alt="name" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Name.gif"/>
@@ -30,9 +30,11 @@
 
 <br>
 
+
 Credits: [SamarjeetBanik](https://github.com/SamarjeetBanik) 😎
 <br>
 Last Edited on: 24/04/2021
+
 
 <!--
 **SamarjeetBanik/SamarjeetBanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -21,7 +21,7 @@
 
 <p align="center">
   <i>Follow and connect with me around the web: 😃</i><br>
-  <a href="https://www.linkedin.com/in/samarjeet-banik-652394172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/samarjeet-banik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/_.banik_samarjeet._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/profile.php?id=100007586388142" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://github.com/SamarjeetBanik" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square"/></a>
@@ -33,7 +33,7 @@
 
 Credits: [SamarjeetBanik](https://github.com/SamarjeetBanik) 😎
 <br>
-Last Edited on: 28/04/2021
+Last Edited on: 02/11/2021
 
 
 <!--

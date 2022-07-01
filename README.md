@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨!!!, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Hi.gif" width="50px"><img src="https://visitor-badge.laobi.icu/badge?page_id=SamarjeetBanik.SamarjeetBanik" alt="visitCount"></h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨!!!, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Hi.gif" width="50px" height="40px">&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=SamarjeetBanik.SamarjeetBanik" alt="visitCount"></h1>
 
 <div>
   <img alt="name" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Name.gif"/>
@@ -23,7 +23,7 @@
   <i>Follow and connect with me around the web: 😃</i><br>
   <a href="https://www.linkedin.com/in/samarjeet-banik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/d_caped_crusader/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/profile.php?id=100007586388142" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.facebook.com/samarjeetbanik/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://github.com/SamarjeetBanik" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square"/></a>
   <a href="https://twitter.com/banik_samarjeet"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat-square"/></a>
 </p>
@@ -33,7 +33,7 @@
 
 Credits: [SamarjeetBanik](https://samarjeet-banik.netlify.app/) 😎
 <br>
-Last Edited on: 25/03/2022
+Last Edited on: 01/07/2022
 
 
 <!--

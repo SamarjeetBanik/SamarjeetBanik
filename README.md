@@ -33,7 +33,7 @@
 
 Credits: [SamarjeetBanik](https://samarjeet-banik.netlify.app/) 😎
 <br>
-Last Edited on: 01/07/2022
+Last edited on: 01/07/2022
 
 
 <!--

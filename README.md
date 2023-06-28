@@ -2,7 +2,7 @@
 
 <div>
   <img alt="name" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Name.gif"/>
-  <img alt="Night Coding" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Night-Coding.gif" height=200px" align="right"/>
+  <img alt="Night Coding" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Night-Coding.gif" height=200px width=290px align="right"/>
   <pre align="center">
     You have finally discovered my Github profile.
     Please feel free to clone/fork projects, raise issues and submit PRs,

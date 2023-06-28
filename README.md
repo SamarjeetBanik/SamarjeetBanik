@@ -2,8 +2,8 @@
 
 <div>
   <img alt="name" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Name.gif"/>
-  <img alt="Night Coding" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Night-Coding.gif" height="180px" align="right"/>
-  <pre align="left">
+  <img alt="Night Coding" src="https://github.com/SamarjeetBanik/SamarjeetBanik/blob/main/Gifs/Night-Coding.gif" height=200px" align="right"/>
+  <pre align="center">
     You have finally discovered my Github profile.
     Please feel free to clone/fork projects, raise issues and submit PRs,
     if you think something could be better.😇
@@ -33,7 +33,7 @@
 
 Credits: [SamarjeetBanik](https://samarjeet-banik.netlify.app/) 😎
 <br>
-Last edited on: 03/08/2022
+Last edited on: 28/06/2023
 
 
 <!--
